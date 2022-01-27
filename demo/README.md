@@ -10,10 +10,10 @@
 ![](user.png)
 (*note the password you provide here)
 ![](database.png)
-Server name: **nopcommerce_mssql_server**
-Database name: **nopCommerce_db**
-SQL Username: **sa**
-SQL Password: **nopCommerce_db_password**
+Server name: **nopcommerce_mssql_server**  
+Database name: **nopCommerce_db**  
+SQL Username: **sa**  
+SQL Password: **nopCommerce_db_password**  
 After you click **Install** the installation will finish and the nopeCommerce app will be shut down
 ## nopCommerce demo app usage
 * From now on you should execute `./rerun_me.sh`  in the Terminal app (do not forget to navigate to the shop-test directory first) to start the app and open  [http://localhost:80](http://localhost:80). Now you should be able to explore the demo shop as a regular customer or access the admin panel at [http://localhost:80/admin](http://localhost:80/admin) using the credentials you specified previously while configuring the app on the first execution
