@@ -7,9 +7,9 @@
 * Navigate to the shop-test directory in the Terminal app (or you can just drag&drop this directory from Finder on the Terminal app icon on the app bar)
 * Execute `./init_and_run_me.sh`  in the Terminal app and wait for installation to finish
 * Open [http://localhost:80](http://localhost:80) in your browser to finish the nopCommerce app configuration as following:
-![](Screenshot%202022-01-27%20at%2003.10.07.png)
+![](user.png)
 (*note the password you provide here)
-![](Screenshot%202022-01-27%20at%2003.10.17.png)
+![](database.png)
 Server name: **nopcommerce_mssql_server**
 Database name: **nopCommerce_db**
 SQL Username: **sa**
